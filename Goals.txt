@@ -4,5 +4,9 @@ Maintainability
 
 Report Generation
 
+Logs
+Multiple data sets
+Test status update
+
 
 Thanks
