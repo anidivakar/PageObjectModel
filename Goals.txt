@@ -1,3 +1,6 @@
 Maven
 Re Usablility
 Maintainability
+
+Report Generation
+Logs
